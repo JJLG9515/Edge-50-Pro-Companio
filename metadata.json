@@ -1,0 +1,6 @@
+{
+  "name": "Edge 50 Pro Companion",
+  "description": "Suite de diagnóstico, cámara Pro, calibración pOLED 144 Hz, carga 125W TurboPower y gestos para Motorola Edge 50 Pro.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
